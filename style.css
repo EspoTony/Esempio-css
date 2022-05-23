@@ -23,3 +23,10 @@ border-bottom-style: solid;
     color: goldenrod;
 }
 /*fine stile header/
+/*inizio stile footer*/
+footer{
+    border-top: 1px;
+    border-top-style: solid;
+border-top-color: goldenrod; 
+font-size: 10px;   
+}
