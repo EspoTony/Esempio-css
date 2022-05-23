@@ -1,0 +1,18 @@
+/* commons*/
+.text-center{
+    text-align: center;
+}
+/*stile header*/
+header{
+background-color: lightgray;
+border-bottom-color: goldenrod;
+border-bottom-width: 2px;
+border-bottom-style: solid;
+}
+#profile-pic{
+    height: 250px;
+}
+#hr-profile-pic{
+    color: goldenrod;
+}
+/*fine stile header/
